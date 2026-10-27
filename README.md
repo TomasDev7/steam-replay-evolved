@@ -103,7 +103,7 @@ The project includes two formally authored executive whitepapers in Microsoft Wo
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/steam-replay-evolved.git
+git clone https://github.com/TomasDev7/steam-replay-evolved.git
 cd steam-replay-evolved
 ```
 

@@ -103,7 +103,7 @@ El repositorio incluye dos documentos ejecutivos formales en formato Microsoft W
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/steam-replay-evolved.git
+git clone https://github.com/TomasDev7/steam-replay-evolved.git
 cd steam-replay-evolved
 ```
 
