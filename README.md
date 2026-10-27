@@ -1,5 +1,7 @@
 # 🎮 Steam Replay Evolved
 
+🌐 **Languages / Idiomas:** [English](README.md) | [Español](README.es.md)
+
 > **Transforming the static annual Steam Year in Review into a dynamic, AI-powered social retention, backlog reactivation, and competitive gaming engine.**
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.2-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
